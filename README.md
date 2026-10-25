@@ -1,0 +1,1 @@
+This project demonstrates I2C communication between the PIC18F4520 microcontroller and a Real-Time Clock (RTC) module. The program writes initial time values to the RTC, reads time data through the I2C protocol, and displays the hours, minutes, and seconds on a 16×2 LCD.
